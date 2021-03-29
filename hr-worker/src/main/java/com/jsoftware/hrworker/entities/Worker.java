@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name = "tab_workers")
+@Table(name = "tb_worker")
 @Entity
 public class Worker implements Serializable{
 
