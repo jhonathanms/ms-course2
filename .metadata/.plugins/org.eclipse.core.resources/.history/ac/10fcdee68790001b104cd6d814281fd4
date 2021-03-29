@@ -1,0 +1,5 @@
+package com.jsoftware.hrworker.entities;
+
+public class Worker {
+
+}
