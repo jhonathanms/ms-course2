@@ -35,18 +35,18 @@ public class WorkerResource {
 	
 	@GetMapping(value = "/{id}")
 	public ResponseEntity<Worker> findById(@PathVariable Long id){
-		// Teste Hystrix com execeção
+// Teste Hystrix com execeção
 //		int x = 1;
 //		if(x == 0) throw new RuntimeException("Erro na comunição");
 		
-		// Teste Hystrix com TimeOut
-		// Obs.: TimeOut padrão de balanciamento de carga com Ribbon é de 1 segundo.
-		try {
-			Thread.sleep(3000L);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+// Teste Hystrix com TimeOut
+// Obs.: TimeOut padrão de balanciamento de carga com Ribbon é de 1 segundo.
+//		try {
+//			Thread.sleep(3000L);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 		
 		// Imprime no logger do springboot a porta que a api está rodando
 		logger.info(env.getProperty("local.server.port"));
