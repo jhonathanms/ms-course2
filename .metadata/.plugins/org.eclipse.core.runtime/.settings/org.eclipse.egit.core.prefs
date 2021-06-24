@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Eclipse-workspace\\ms-curso\\.git;C\:\\Eclipse-workspace\\ms-curso\\backend-ceniq-api\\.git;C\:\\Eclipse-workspace\\ms-curso\\ms-curso\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;backend-ceniq-api\\.git;ms-curso\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Eclipse-workspace\\ms-curso\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
 RepositoryGroups.uuids=
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
