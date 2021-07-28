@@ -5,7 +5,7 @@ org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-config-serve
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-feign=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=5
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=3
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.h2=5
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=4
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.thymeleaf=1
